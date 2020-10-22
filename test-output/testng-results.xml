@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="228578" started-at="2020-09-30T21:56:58 AST" finished-at="2020-09-30T22:00:47 AST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="228578" started-at="2020-09-30T21:56:58 AST" finished-at="2020-09-30T22:00:47 AST">
+      <class name="TestCases.bookRoom">
+        <test-method status="PASS" signature="bef()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="bef" is-config="true" duration-ms="38478" started-at="2020-09-30T21:56:58 AST" finished-at="2020-09-30T21:57:37 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="testWithValidData()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="testWithValidData" duration-ms="48825" started-at="2020-09-30T21:57:37 AST" finished-at="2020-09-30T21:58:25 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithValidData -->
+        <test-method status="PASS" signature="af()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="af" is-config="true" duration-ms="2791" started-at="2020-09-30T21:58:25 AST" finished-at="2020-09-30T21:58:28 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+        <test-method status="PASS" signature="bef()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="bef" is-config="true" duration-ms="9000" started-at="2020-09-30T21:58:28 AST" finished-at="2020-09-30T21:58:37 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="testwithemptyEmail()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="testwithemptyEmail" duration-ms="56175" started-at="2020-09-30T21:58:37 AST" finished-at="2020-09-30T21:59:33 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwithemptyEmail -->
+        <test-method status="PASS" signature="af()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="af" is-config="true" duration-ms="1867" started-at="2020-09-30T21:59:33 AST" finished-at="2020-09-30T21:59:35 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+        <test-method status="PASS" signature="bef()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="bef" is-config="true" duration-ms="9421" started-at="2020-09-30T21:59:35 AST" finished-at="2020-09-30T21:59:45 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bef -->
+        <test-method status="PASS" signature="testwithemptyName()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="testwithemptyName" duration-ms="59187" started-at="2020-09-30T21:59:45 AST" finished-at="2020-09-30T22:00:44 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testwithemptyName -->
+        <test-method status="PASS" signature="af()[pri:0, instance:TestCases.bookRoom@551aa95a]" name="af" is-config="true" duration-ms="2772" started-at="2020-09-30T22:00:44 AST" finished-at="2020-09-30T22:00:47 AST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- TestCases.bookRoom -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
