@@ -1,4 +1,4 @@
-# Booking-Automation-Testing-
+# Booking-Automation-Testing
 This project aim to test some functional requirements of Booking.com website using Selenium webdriver and Eclipse IDE.  
 The tested requirement are:
          A. Registration and login
